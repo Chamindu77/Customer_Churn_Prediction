@@ -3,7 +3,12 @@
 
 <img src="https://github.com/Vindyani1999/My-React-Projects/assets/145743416/7f6bca58-8409-4a32-847d-263ecf97d428" width="1000px" height="350px"/>
 
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
 This project aims to predict customer churn using machine learning techniques. Customer churn refers to the phenomenon where customers stop doing business with a company. Predicting churn can help businesses retain customers by addressing the reasons why customers might leave.
+
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
 
 ## Dataset
 
