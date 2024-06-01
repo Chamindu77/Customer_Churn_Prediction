@@ -94,7 +94,4 @@ The dataset contains 12 feature columns:
 
 I have build an accurate model for customer chunk prediction and the trainer model can be found in the repository.
 
-
-
-```bash
-pip install -r requirements.txt
+[![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
