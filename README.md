@@ -1,7 +1,7 @@
 # Customer Churn Prediction
 
 
-<img src="https://github.com/Vindyani1999/My-React-Projects/assets/145743416/7f6bca58-8409-4a32-847d-263ecf97d428" width="1000px" height="350px"/>
+<img src="https://github.com/Chamindu77/Customer_Churn_Prediction/assets/117502200/312aa03d-2d1c-42cf-bd88-c90f97434951" width="1000px" height="350px"/>
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
